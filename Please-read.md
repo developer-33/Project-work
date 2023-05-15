@@ -1,2 +1,0 @@
-I know this is pretty empty, im struggling with JavaScript. its not the logic , it's the syntax. I know what I need to do but cant remember how to write it.
-I definitly need a one-one. Im almost there I can feel it, I just need that little push over the hill. 
